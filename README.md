@@ -2,7 +2,7 @@
 
 View the [demo here](https://demo.magic-portfolio.com).
 
-![Magic Portfolio](public/images/cover.png)
+![Magic Portfolio](public/images/Portfolio.mp4)
 
 
 # **Getting started**
@@ -11,7 +11,7 @@ Magic Portfolio was built with [Next.js](https://nextjs.org). It requires Node.j
 
 **1. Clone the repository**
 ```
-git clone 
+git clone https://github.com/Issac-Moses/Issac-Moses-Portfolio.git
 ```
 
 **2. Install dependencies**
@@ -65,7 +65,7 @@ Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 
 Connect with us on Threads or LinkedIn.
 
-Lorant Toth: [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/tothlorant/)  
+Lorant Toth: [Threads](https://www.threads.net/@mad_moses_404), [LinkedIn](https://www.linkedin.com/in/tothlorant/)  
 
 
 Localization added by [François Hernandez](https://github.com/francoishernandez)
