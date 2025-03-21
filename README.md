@@ -72,7 +72,7 @@ src/app/blog/posts or src/app/work/projects
 4. Deploy and get your live URL.
 
 ## **Connect with Me**
-- LinkedIn: [https://www.linkedin.com/in/i%EF%BD%93%EF%BD%93-a-c-m-%E5%8F%A3%EF%BD%93%E3%83%A2%EF%BD%93-d-12837831b/)
+- LinkedIn: [ISSAC MOSES D](https://www.linkedin.com/in/i%EF%BD%93%EF%BD%93-a-c-m-%E5%8F%A3%EF%BD%93%E3%83%A2%EF%BD%93-d-12837831b/)
 - GitHub: [ISSAC MOSES D](https://github.com/Issac-Moses)
 
 ## **License**
