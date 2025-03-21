@@ -1,0 +1,96 @@
+---
+title: "Federated Learning for Privacy-Preserving Facial Recognition in Attendance System"
+publishedAt: "2025-06-01"
+summary: "Development of a flexible and highly customizable AI model for Face Recognition to improve efficency of Accuracy."
+images:
+  - "/images/projects/Face1.mp4"
+  - "images/projects/Face2.mp4"
+  - "images/projects/Face3.mp4"
+  - "images/projects/Face4.mp4"
+team:
+  - name: "Issac Moses D"
+    role: "Data-Mind Fusion Specialist"
+    avatar: "/images/issac.jpg"
+    linkedIn: "https://www.linkedin.com/in/i%EF%BD%93%EF%BD%93-a-c-m-%E5%8F%A3%EF%BD%93%E3%83%A2%EF%BD%93-d-12837831b/"
+  - name: "Vikram"
+    role: "AI Engineer"
+    avatar: "/images/vikram.jpg"
+    linkedIn: "https://www.linkedin.com/in/vikram250/"
+---
+
+## Overview
+
+Implementation of a privacy-preserving facial recognition attendance system using Federated Learning (FL), ensuring data security and compliance with privacy regulations.
+
+## Abstract
+- Face recognition-based attendance systems have emerged as an efficient alternative to traditional attendance tracking methods, eliminating the need for manual entries and reducing errors. This paper presents an advanced face recognition-based attendance system using deep learning techniques. The proposed system utilizes OpenCV, Dlib, and machine learning algorithms to accurately detect and recognize faces in real time. The system automates the attendance process, ensuring higher accuracy, improved security, and reduced time consumption. Experimental results demonstrate the effectiveness of the proposed approach in educational and corporate environments.
+
+## 1. INTRODUCTION
+- Attendance tracking is a critical aspect of academic institutions, corporate offices, and various other organizations where maintaining accurate records of employee or student presence is essential. Traditional attendance systems, such as manual entry, RFID-based systems, and biometric fingerprint scanners, come with several drawbacks, including the risk of proxy attendance, time consumption, and the need for physical interaction with devices. To address these issues, face recognition-based attendance systems have gained popularity due to their ability to provide a contactless, efficient, and automated solution.
+
+## **A.	Background and Motivation** 
+Face recognition technology has advanced significantly in recent years, powered by deep learning techniques and high-precision image processing algorithms. It offers an effective method for identity verification by analyzing and comparing unique facial features. Unlike fingerprint or RFID-based systems, face recognition does not require users to carry any external device or physically interact with a scanner, making it a convenient and hygienic solution—especially in post-pandemic scenarios where contactless systems are preferred.
+The motivation behind this study is to leverage modern computer vision techniques to develop an automated attendance system that eliminates the inefficiencies of traditional methods. By integrating facial recognition algorithms with real-time image processing, the proposed system ensures secure, accurate, and hassle-free attendance management in various organizational settings.
+
+## B.  Problem Statement
+Existing attendance systems suffer from several challenges, including:
+	Manual Errors & Proxy Attendance: Traditional methods such as roll calls are time-consuming and prone to human errors. Proxy attendance (when one individual marks attendance for another) is also a significant issue in academic institutions and workplaces.
+	Device Dependency: Biometric systems like fingerprint scanners require physical contact, which can spread germs and are ineffective when the sensor is dirty or damaged.
+Scalability Issues: Maintaining RFID or fingerprint-based attendance systems for large-scale environments, such as universities or multinational corporations. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Key Features
+
+- **Decentralized Model Training**: Utilized Federated Learning to train facial recognition models across multiple edge devices without transmitting sensitive biometric data to a central server.
+- **Enhanced Privacy & Security**: Leveraged differential privacy and secure aggregation techniques to prevent unauthorized access to facial data.
+- **Optimized Attendance Verification**:Implemented lightweight facial recognition algorithms for real-time attendance logging while reducing computational overhead.
+- **Edge Device Compatibility**: Designed for deployment on mobile devices, embedded systems, and local servers, ensuring seamless integration into various infrastructures.
+- **Adaptive Learning Mechanism**:Enabled continuous model improvement through on-device learning updates while maintaining user privacy.
+
+## Technologies Used
+
+- **Federated Learning**:To enable decentralized model training across distributed nodes.
+- **TensorFlow Federated (TFF)**: For building and orchestrating FL-based facial recognition models.
+- **OpenCV**: For real-time face detection and preprocessing.
+- **PyTorch**: For model training and optimization.
+- **Secure Multi-Party Computation (MPC)**: To enhance data privacy during training.
+- **Mediapipe**: For lightweight and efficient facial feature extraction.
+
+## Challenges and Learnings
+
+One major challenge was ensuring model convergence while maintaining privacy constraints. To address this, we fine-tuned communication strategies between client devices and the central aggregator to minimize data transmission while preserving accuracy. Another learning was optimizing facial recognition models to function efficiently on resource-limited edge devices without compromising performance.
+## Outcome
+
+The Federated Learning-based facial recognition attendance system significantly improved privacy and security, eliminating centralized biometric storage risks. It also enhanced the scalability of attendance tracking solutions, making it suitable for institutions and enterprises requiring privacy-compliant authentication mechanisms. The system has demonstrated successful deployment with real-world datasets, ensuring accuracy while maintaining regulatory compliance.
