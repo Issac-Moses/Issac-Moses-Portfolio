@@ -3,7 +3,7 @@
 This is the source code for my personal portfolio website.
 
 ## **Live Demo**
-[Visit my portfolio](https://your-netlify-url-here)
+[Visit my portfolio](https://issac-moses-portfolio.netlify.app/)
 
 
 ## **Getting Started**
@@ -12,7 +12,7 @@ This project is built with [Next.js](https://nextjs.org) and styled using SCSS.
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/issacmosesd/portfolio.git
+git clone https://github.com/Issac-Moses/Issac-Moses-Portfolio.git
 ```
 
 ### **2. Install Dependencies**
@@ -72,8 +72,8 @@ src/app/blog/posts or src/app/work/projects
 4. Deploy and get your live URL.
 
 ## **Connect with Me**
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- GitHub: [Your GitHub Profile](https://github.com/issacmosesd)
+- LinkedIn: [https://www.linkedin.com/in/i%EF%BD%93%EF%BD%93-a-c-m-%E5%8F%A3%EF%BD%93%E3%83%A2%EF%BD%93-d-12837831b/)
+- GitHub: [ISSAC MOSES D](https://github.com/Issac-Moses)
 
 ## **License**
 This project is licensed under the MIT License.
