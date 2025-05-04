@@ -7,7 +7,7 @@ const person = {
     return `${this.firstName} ${this.lastName}`;
   },
   role: "Data-Mind Fusion Specialist",
-  avatar: "/images/issac.jpg",
+  avatar: "/images/issac1.jpg",
   location: "Asia/Kolkata", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
   languages: ["English", "Tamil"], // optional: Leave the array empty if you don't want to display languages
 };
