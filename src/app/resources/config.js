@@ -6,6 +6,7 @@ const routes = {
   "/work": true,
   "/blog": true,
   "/gallery": true,
+  "/contact": true
 };
 
 // Enable password protection on selected routes
@@ -16,11 +17,11 @@ const protectedRoutes = {
 
 const style = {
   theme: "dark", // dark | light
-  neutral: "gray", // sand | gray | slate
-  brand: "emerald", // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
-  accent: "orange", // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
+  neutral: "slate", // sand | gray | slate
+  brand: "violet", // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
+  accent: "pink", // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
   solid: "contrast", // color | contrast
-  solidStyle: "flat", // flat | plastic
+  solidStyle: "plastic", // flat | plastic
   border: "playful", // rounded | playful | conservative
   surface: "translucent", // filled | translucent
   transition: "all", // all | micro | macro
@@ -31,18 +32,18 @@ const effects = {
     cursor: true,
     x: 0,
     y: 0,
-    radius: 75,
+    radius: 65,
   },
   gradient: {
     display: true,
     x: 50,
-    y: 0,
+    y: 10,
     width: 100,
     height: 100,
     tilt: 0,
     colorStart: "brand-background-strong",
     colorEnd: "static-transparent",
-    opacity: 50,
+    opacity: 60,
   },
   dots: {
     display: true,
