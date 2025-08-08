@@ -68,7 +68,7 @@ src/app/blog/posts or src/app/work/projects
    ```bash
    npm run build
    ```
-3. Set the publish directory to `.next`
+3. Set the publish directory to `.next`.
 4. Deploy and get your live URL.
 
 ## **Connect with Me**
