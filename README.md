@@ -3,7 +3,7 @@
 This is the source code for my personal portfolio website.
 
 ## **Live Demo**
-[Visit my portfolio](https://issac-moses-portfolio.netlify.app/)
+[Visit my portfolio](https://portfolio-issac-moses.netlify.app/)
 
 
 ## **Getting Started**
